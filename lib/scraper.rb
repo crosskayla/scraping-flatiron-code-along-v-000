@@ -21,7 +21,7 @@ class Scraper
   end
 
   def get_courses
-    @page.
+    @page.css('h2')
 
 
 end
