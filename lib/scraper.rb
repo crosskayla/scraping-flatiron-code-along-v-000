@@ -23,6 +23,7 @@ class Scraper
 
   def get_courses
     @page.css('h2')
+    binding.pry
   end
 
 
