@@ -24,5 +24,6 @@ class Scraper
     binding.pry
   end
 
-
+#  def get_courses
+# => @course = @page.css(".post").css("h2")
 end
